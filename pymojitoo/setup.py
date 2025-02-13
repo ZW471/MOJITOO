@@ -9,7 +9,7 @@ setup(
     author_email='chengmingbo@gmail.com',
     license='BSD 2-clause',
     install_requires=['numpy',
-                      'sklearn',
+                      'scikit-learn',
                       'scipy',
                       'statsmodels',
                       'scanpy',
